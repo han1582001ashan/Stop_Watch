@@ -1,0 +1,14 @@
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Stop_Watch\bin\Debug\net8.0\Stop_Watch.exe
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Stop_Watch\bin\Debug\net8.0\Stop_Watch.deps.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Stop_Watch\bin\Debug\net8.0\Stop_Watch.runtimeconfig.json
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Stop_Watch\bin\Debug\net8.0\Stop_Watch.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Stop_Watch\bin\Debug\net8.0\Stop_Watch.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Stop_Watch\obj\Debug\net8.0\Stop_Watch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Stop_Watch\obj\Debug\net8.0\Stop_Watch.AssemblyInfoInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Stop_Watch\obj\Debug\net8.0\Stop_Watch.AssemblyInfo.cs
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Stop_Watch\obj\Debug\net8.0\Stop_Watch.csproj.CoreCompileInputs.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Stop_Watch\obj\Debug\net8.0\Stop_Watch.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Stop_Watch\obj\Debug\net8.0\refint\Stop_Watch.dll
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Stop_Watch\obj\Debug\net8.0\Stop_Watch.pdb
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Stop_Watch\obj\Debug\net8.0\Stop_Watch.genruntimeconfig.cache
+C:\Users\loopo\OneDrive\Desktop\BT Codegym\Stop_Watch\obj\Debug\net8.0\ref\Stop_Watch.dll
